@@ -1,0 +1,6 @@
+mods/data/unknown-suffering/unknown-suffering-hard.json
+mods/data/unknown-suffering/unknown-suffering.json
+mods/songs/unknown-suffering/Voices.ogg
+mods/songs/unknown-suffering/Inst.ogg
+mods/songs/unknown-suffering/voices.ogg
+mods/songs/unknown-suffering/inst.ogg

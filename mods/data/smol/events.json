@@ -1,0 +1,140 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "cat-house",
+		"player1": "bfxcat",
+		"player2": "smol",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					]
+				]
+			],
+			[
+				45529.4117647059,
+				[
+					[
+						"Cam Boom Speed",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				50470.5882352941,
+				[
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				50823.5294117647,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Cam Boom Speed",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				56647.0588235294,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						""
+					],
+					[
+						"Cam Boom Speed",
+						"1",
+						"3"
+					]
+				]
+			],
+			[
+				67058.8235294117,
+				[
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				67941.1764705882,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				101647.058823529,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"3"
+					]
+				]
+			],
+			[
+				113117.647058823,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				115764.705882353,
+				[
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfx",
+		"bpm": 170,
+		"mania": 4,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "smol"
+	}
+}

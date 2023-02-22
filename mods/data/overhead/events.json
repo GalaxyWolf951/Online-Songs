@@ -1,0 +1,50 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "Park",
+		"player1": "bfxdrip",
+		"player2": "whitney",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					]
+				]
+			],
+			[
+				13043.4782608696,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				169565.217391304,
+				[
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfx",
+		"bpm": 184,
+		"mania": 4,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "overhead"
+	}
+}

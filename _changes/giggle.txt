@@ -1,0 +1,5 @@
+mods/data/giggle/giggle.json
+mods/songs/giggle/Voices.ogg
+mods/songs/giggle/Inst.ogg
+mods/songs/giggle/voices.ogg
+mods/songs/giggle/inst.ogg

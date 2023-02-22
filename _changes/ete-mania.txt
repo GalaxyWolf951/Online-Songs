@@ -1,0 +1,6 @@
+mods/data/ete-mania/ete-mania-hard.json
+mods/data/ete-mania/ete-mania.json
+mods/songs/ete-mania/Voices.ogg
+mods/songs/ete-mania/Inst.ogg
+mods/songs/ete-mania/voices.ogg
+mods/songs/ete-mania/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/manual-blast/events.json
+mods/data/manual-blast/manual-blast-hard.json
+mods/songs/manual-blast/Voices.ogg
+mods/songs/manual-blast/Inst.ogg
+mods/songs/manual-blast/voices.ogg
+mods/songs/manual-blast/inst.ogg

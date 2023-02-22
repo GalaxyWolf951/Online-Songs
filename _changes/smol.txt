@@ -1,0 +1,6 @@
+mods/data/smol/events.json
+mods/data/smol/smol-hard.json
+mods/songs/smol/Voices.ogg
+mods/songs/smol/Inst.ogg
+mods/songs/smol/voices.ogg
+mods/songs/smol/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/hellhole/events.json
+mods/data/hellhole/hellhole-hard.json
+mods/songs/hellhole/Voices.ogg
+mods/songs/hellhole/Inst.ogg
+mods/songs/hellhole/voices.ogg
+mods/songs/hellhole/inst.ogg

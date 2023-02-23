@@ -1,0 +1,5 @@
+mods/data/erect-dadbattle/erect-dadbattle-erect.json
+mods/songs/erect-dadbattle/Voices.ogg
+mods/songs/erect-dadbattle/Inst.ogg
+mods/songs/erect-dadbattle/voices.ogg
+mods/songs/erect-dadbattle/inst.ogg

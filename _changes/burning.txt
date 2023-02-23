@@ -1,0 +1,6 @@
+mods/data/burning/burning-hard.json
+mods/data/burning/burning.json
+mods/songs/burning/Voices.ogg
+mods/songs/burning/Inst.ogg
+mods/songs/burning/voices.ogg
+mods/songs/burning/inst.ogg

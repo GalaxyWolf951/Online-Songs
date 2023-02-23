@@ -1,0 +1,41 @@
+lila:lelaom:...
+bf:concerned:You... Are you okay?
+aside: :(As BF pokes her lightly, the monster separated itself from the host.)
+bf:afraid3:...!
+gf:angry2&bgm:That thing wanted to eat these kids through that woman's body.
+gf:serious:Seems like she was under some demon's possession of some sort.
+moloch:speechless:...
+kids:hi:That was so cool, Moloch!
+moloch:angry:Don't get any closer to me, you pests!
+moloch:thinking:Anyways, whatever that was exceeded my expectations... Its power is relatively unknown.
+moloch:angry2:I felt two forces that were not part of this world.
+pump:playful:Moloch is rambling again.
+skid:happy:You look really cool when you're serious, Moloch!
+skid:excited:So can you teach us some demon language?
+moloch:speechless:...
+moloch:speechless3:...I'm leaving.
+aside: :(Moloch chants a spell and disappears out of view, leaving the four alone with a lone Ouija board on the ground.)
+skid:happy:Don't worry, he's just shy.
+pump:excited:We should teach him how to make friends!
+skid:excited:Good idea!
+skid:normal:Well, thanks for playing with us! We're gonna go home.
+aside: :(BF and GF waved the kids goodbye as they walk off into the distance.)
+gf:awkward:I thought we'd just have a simple singing practice... but we ended up dealing with something weirder.
+gf:awkward:Hopefully the next time we do this, we don't encounter anything more outrageous than that.
+bf:normal:It's alright! The first time I sang with a demon, I think it was pretty fun.
+gf:demon2:Oh? What am I then?
+bf:shy2:Hehe... you're the prettiest demon! My pretty demon girlfriend!
+gf:happy2:Well, aren't you just the sweetest?
+gf:normal:Guess we should head back now-
+gf:serious2:Oh! What do we do about...
+gf:serious:huh?
+aside: :(GF turns around to where the lady and the monster was supposed to be, only for there to be nothing left.)
+bf:serious:What's wrong?
+bf:confused:Eh, did the lady and the creature disappear??
+gf:sweat:...I'm sure nothing will happen.
+bf:happy:Maybe they were just afraid of us and ran away after hearing us talk about them.
+gf:happy:Yeah, that would make sense, wouldn't it?
+gf:normal:Anyways, shall we?
+bf:normal:Where to?
+gf:demon2:Let's have a quick date! Aren't you tired after what just happened?
+bf:blush:!!

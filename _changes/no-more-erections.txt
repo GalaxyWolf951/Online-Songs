@@ -1,0 +1,5 @@
+mods/data/no-more-erections/no-more-erections-hard.json
+mods/songs/no-more-erections/Voices.ogg
+mods/songs/no-more-erections/Inst.ogg
+mods/songs/no-more-erections/voices.ogg
+mods/songs/no-more-erections/inst.ogg

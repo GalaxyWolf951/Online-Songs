@@ -1,0 +1,9 @@
+mods/data/sickly-sour/events.json
+mods/data/sickly-sour/moloch.json
+mods/data/sickly-sour/sickly-sour-easy.json
+mods/data/sickly-sour/sickly-sour-hard.json
+mods/data/sickly-sour/sickly-sour.json
+mods/songs/sickly-sour/Voices.ogg
+mods/songs/sickly-sour/Inst.ogg
+mods/songs/sickly-sour/voices.ogg
+mods/songs/sickly-sour/inst.ogg

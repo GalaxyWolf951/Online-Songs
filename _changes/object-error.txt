@@ -1,0 +1,7 @@
+mods/data/object-error/events.json
+mods/data/object-error/object-error-hard.json
+mods/data/object-error/object-error.json
+mods/songs/object-error/Voices.ogg
+mods/songs/object-error/Inst.ogg
+mods/songs/object-error/voices.ogg
+mods/songs/object-error/inst.ogg

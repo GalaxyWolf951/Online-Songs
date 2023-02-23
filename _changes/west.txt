@@ -1,0 +1,8 @@
+mods/data/west/events.json
+mods/data/west/west-easy.json
+mods/data/west/west-hard.json
+mods/data/west/west.json
+mods/songs/west/Voices.ogg
+mods/songs/west/Inst.ogg
+mods/songs/west/voices.ogg
+mods/songs/west/inst.ogg

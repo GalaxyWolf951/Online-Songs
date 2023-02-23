@@ -1,0 +1,5 @@
+mods/data/no-more-pitstops/no-more-pitstops.json
+mods/songs/no-more-pitstops/Voices.ogg
+mods/songs/no-more-pitstops/Inst.ogg
+mods/songs/no-more-pitstops/voices.ogg
+mods/songs/no-more-pitstops/inst.ogg

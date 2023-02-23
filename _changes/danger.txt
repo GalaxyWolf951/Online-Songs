@@ -1,0 +1,6 @@
+mods/data/danger/danger-hard.json
+mods/data/danger/events.json
+mods/songs/danger/Voices.ogg
+mods/songs/danger/Inst.ogg
+mods/songs/danger/voices.ogg
+mods/songs/danger/inst.ogg

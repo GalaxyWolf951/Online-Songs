@@ -1,0 +1,5 @@
+mods/data/nuzzles/nuzzles-hard.json
+mods/songs/nuzzles/Voices.ogg
+mods/songs/nuzzles/Inst.ogg
+mods/songs/nuzzles/voices.ogg
+mods/songs/nuzzles/inst.ogg

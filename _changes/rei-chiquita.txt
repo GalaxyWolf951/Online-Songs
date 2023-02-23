@@ -1,0 +1,6 @@
+mods/data/rei-chiquita/rei-chiquita-hard.json
+mods/data/rei-chiquita/rei-chiquita.json
+mods/songs/rei-chiquita/Voices.ogg
+mods/songs/rei-chiquita/Inst.ogg
+mods/songs/rei-chiquita/voices.ogg
+mods/songs/rei-chiquita/inst.ogg

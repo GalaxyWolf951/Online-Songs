@@ -9,6 +9,7 @@ mods/weeks/m.json
 mods/weeks/n.json
 mods/weeks/o.json
 mods/weeks/p.json
+mods/weeks/r.json
 mods/weeks/s.json
 mods/weeks/t.json
 mods/weeks/u.json

@@ -14,3 +14,4 @@ mods/weeks/s.json
 mods/weeks/t.json
 mods/weeks/u.json
 mods/weeks/w.json
+mods/weeks/y.json

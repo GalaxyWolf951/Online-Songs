@@ -1,0 +1,5 @@
+mods/data/phantasma/phantasma-hard.json
+mods/songs/phantasma/Voices.ogg
+mods/songs/phantasma/Inst.ogg
+mods/songs/phantasma/voices.ogg
+mods/songs/phantasma/inst.ogg

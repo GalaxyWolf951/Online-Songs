@@ -1,0 +1,5 @@
+mods/data/yaro-phantasma/yaro-phantasma-hard.json
+mods/songs/yaro-phantasma/Voices.ogg
+mods/songs/yaro-phantasma/Inst.ogg
+mods/songs/yaro-phantasma/voices.ogg
+mods/songs/yaro-phantasma/inst.ogg
